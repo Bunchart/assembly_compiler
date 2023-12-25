@@ -1,0 +1,1 @@
+I implemented a compiler's backend to produce x86-64 architecture assembly code on Ubuntu Linux, transitioning from a stack machine code format, and integrated support for three new instructions: factorial, logarithm base two, gcd as function calls while integrating necessary calls to an external library.
